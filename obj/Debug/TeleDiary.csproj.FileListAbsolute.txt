@@ -1,0 +1,10 @@
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\bin\Debug\TeleDiary.exe.config
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\bin\Debug\TeleDiary.exe
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\bin\Debug\TeleDiary.pdb
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.csproj.AssemblyReference.cache
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.PhoneDiary.resources
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.Properties.Resources.resources
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.csproj.GenerateResource.cache
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.csproj.CoreCompileInputs.cache
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.exe
+D:\Code Relate Stuff\Projects\2024 projects\2024 C#\TeleDiary\TeleDiary\obj\Debug\TeleDiary.pdb
